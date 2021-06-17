@@ -22,7 +22,7 @@
 
 
 ## Programming Languages  
-<img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/python.svg' height='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/cpp.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/css.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/js.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/python.svg' height='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/java.svg' height='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/cpp.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/css.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/js.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/sql.svg' width='30'/> 
  
 ## Technologies I Learn and Use
  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/flask.png' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/django.svg' width='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/git.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/nodejs.svg' width='33'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/react.svg' width='33'/>
@@ -32,7 +32,7 @@
  class WhoAmI:
  	user = "Audarya Uttarwar"
 		current_edu = "Sinhgad College of Engineering"
-		likes = "Learning the internals"
+		likes_and_tries = "Learning the internals"
 		hobbies = [
 				"Sketching",
 				"Listening Music"
