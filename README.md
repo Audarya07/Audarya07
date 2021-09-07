@@ -1,7 +1,7 @@
 
 ## Hey, Audarya here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 align="center">An undergraduate student, software engineer and  learner</h3>
+<h3 align="center">A passionate software engineer and learner who also loves teaching</h3>
 
 ##   
 
@@ -19,6 +19,7 @@
 
 ## :computer: Languages and Technologies I Like
 * Python
+* Django
 * Flask
 * Backend Web Development
 
@@ -62,7 +63,7 @@
  * Getting Started with ReactJS and Django!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1KV_rcc2FSsSSv0knAtHAiz_P-ZjdrCLM/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1Pru522abgw0FovmGQ9QrbGpjqIvptC_3/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
