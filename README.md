@@ -21,7 +21,7 @@
 * Python
 * Django
 * Flask
-* Backend Web Development
+* Backend Development
 
 
 ## Languages, Tools & Frameworks I Learn and Use    
@@ -63,7 +63,7 @@
  * Getting Started with ReactJS and Django!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1Pru522abgw0FovmGQ9QrbGpjqIvptC_3/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1FodLCbXhQLujJ0lZZwL_np3o5z_XIByv/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
