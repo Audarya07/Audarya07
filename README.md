@@ -1,6 +1,8 @@
 
 ## Hey, Audarya here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![Banner](./images/banner.png)
+
 <h3 align="center">A passionate software engineer and learner who also loves teaching</h3>
 
 ##   
@@ -9,7 +11,6 @@
 <a href="https://www.leetcode.com/audarya" target="blank">     <img src="images/leetcode.svg" alt="audarya" width="22px" /></a>
 <a href="https://www.hackerrank.com/audiuttarwar2000" target="blank"><img align="left" src="images/hackerrank.svg" alt="audarya" width="22px" /></a>
 <br />
-<img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ## Reach Me At
 [![Linkedin Badge](https://img.shields.io/badge/-audarya_uttarwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audarya-uttarwar)](https://www.linkedin.com/in/audarya-uttarwar)    
