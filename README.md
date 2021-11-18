@@ -64,7 +64,7 @@
  * Getting Started with ReactJS and Django!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1FodLCbXhQLujJ0lZZwL_np3o5z_XIByv/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1JcI9LdKHYNJOlw5cHXA0nrV-t57fiA_J/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
