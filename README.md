@@ -7,10 +7,11 @@
 
 ##   
 
-## Profiles
-<a href="https://www.leetcode.com/audarya" target="blank">     <img src="images/leetcode.svg" alt="audarya" width="22px" /></a>
-<a href="https://www.hackerrank.com/audiuttarwar2000" target="blank"><img align="left" src="images/hackerrank.svg" alt="audarya" width="22px" /></a>
-<br />
+## Profiles  
+<a href="https://www.leetcode.com/audarya" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>  
+<a href="https://www.hackerrank.com/audiuttarwar2000" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>  
+<a href="https://blog.audarya.tech" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  
+
 
 ## Reach Me At
 [![Linkedin Badge](https://img.shields.io/badge/-audarya_uttarwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audarya-uttarwar)](https://www.linkedin.com/in/audarya-uttarwar)    
