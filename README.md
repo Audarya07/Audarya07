@@ -1,5 +1,5 @@
 
-## Hey, Audarya here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, Audarya here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px"> 
 
 ![Banner](./images/banner.png)
 
@@ -22,7 +22,8 @@
 ## :computer: Languages and Technologies I Like
 * Python
 * Django
-* Flask
+* Golang
+* Nodejs
 * Backend Development
 
 
@@ -63,10 +64,10 @@
 
 ## What Am I Currently Doing
  * Working on 🔭 polishing my skills in **Data Structures & Algorithms**.
- * Getting Started with ReactJS and Django!!
+ * Working with Golang and Nodejs and of course Microservices !!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1ui3k3Vz7XFM9xBkchuuGov3BR4nhubgT/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1cb03VpW3uW_5bFKGni6VCFqVElJXGAuz/view?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
