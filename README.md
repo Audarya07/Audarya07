@@ -67,7 +67,7 @@
  * Working with Golang and Nodejs and of course Microservices !!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1cb03VpW3uW_5bFKGni6VCFqVElJXGAuz/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/174M28zzwssS0S5ESd-ZLB7cA8GyWfN0Z/view?usp=drive_link)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
