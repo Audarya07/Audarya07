@@ -10,7 +10,7 @@
 ## Profiles  
 <a href="https://www.leetcode.com/audarya" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>  
 <a href="https://www.hackerrank.com/audiuttarwar2000" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>  
-<a href="https://blog.audarya.tech" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  
+<a href="https://audarya.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  
 
 
 ## Reach Me At
@@ -20,11 +20,11 @@
 <!-- [![LeetCode user audarya](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faudarya&logo=leetcode&logoColor=yellow)](https://leetcode.com/audarya/) -->
 
 ## :computer: Languages and Technologies I Like
+* Nodejs
+* Golang
 * Python
 * Django
-* Golang
-* Nodejs
-* Backend Development
+* Backend Systems
 
 
 ## Languages, Tools & Frameworks I Learn and Use    
@@ -32,6 +32,7 @@
 <!--- <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/python.svg' height='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/java.svg' height='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/cpp.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/css.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/js.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/sql.svg' width='30'/>  -->
 
 <p align="center">
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/java.svg' height='30'/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -40,9 +41,9 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="images/flask.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="images/redis.png" alt="redis" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://git-scm.co	m/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <!--- 
 ## Who am I?
@@ -67,7 +68,7 @@
  * Working with Golang and Nodejs and of course Microservices !!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/174M28zzwssS0S5ESd-ZLB7cA8GyWfN0Z/view?usp=drive_link)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1c4akrJ0tmhLvBJWz_3MflOqmaufbi0CL/view?usp=drive_link)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
   
 
