@@ -1,80 +1,121 @@
 
-## Hey, Audarya here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px"> 
+# Hi there, I'm Audarya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ![Banner](./images/banner.png)
 
-<h3 align="center">A passionate software engineer and learner who also loves teaching</h3>
-
-##   
-
-## Profiles  
-<a href="https://www.leetcode.com/audarya" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>  
-<a href="https://www.hackerrank.com/audiuttarwar2000" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>  
-<a href="https://audarya.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  
-
-
-## Reach Me At
-[![Linkedin Badge](https://img.shields.io/badge/-audarya_uttarwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/audarya-uttarwar)](https://www.linkedin.com/in/audarya-uttarwar)    
-[![Gmail Badge](https://img.shields.io/badge/-audiuttarwar2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:audiuttarwar2000@gmail.com)](mailto:audiuttarwar2000@gmail.com) 
-
-<!-- [![LeetCode user audarya](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faudarya&logo=leetcode&logoColor=yellow)](https://leetcode.com/audarya/) -->
-
-## :computer: Languages and Technologies I Like
-* Nodejs
-* Golang
-* Python
-* Django
-* Backend Systems
-
-
-## Languages, Tools & Frameworks I Learn and Use    
-
-<!--- <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/python.svg' height='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/java.svg' height='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/cpp.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/css.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/js.svg' width='30'/>   <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/sql.svg' width='30'/>  -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&width=435&lines=Software+Engineer;Backend+Developer;Problem+Solver;Tech+Enthusiast;Passionate+Learner+and+Teacher" alt="Typing SVG" />
+</p>
 
 <p align="center">
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src = 'https://github.com/Audarya07/Audarya07/blob/master/images/java.svg' height='30'/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="images/flask.png" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank"> <img src="images/redis.png" alt="redis" width="40" height="40"/> </a>
- <a href="https://git-scm.co	m/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <a href="https://www.leetcode.com/audarya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/audiuttarwar2000"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.linkedin.com/in/audarya-uttarwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:audiuttarwar2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://audarya.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+</p>
 
-<!--- 
-## Who am I?
- ```python
- class WhoAmI:
- 	user = "Audarya Uttarwar"
-		current_edu = "Sinhgad College of Engineering"
-		likes_and_tries = "Learning the internals"
-		hobbies = [
-				"Sketching",
-				"Listening Music"
-				]
-	
-	def getCity():
-		return Pune_India()
-		
- ```
--->
+## 👨‍💻 About Me
 
-## What Am I Currently Doing
- * Working on 🔭 polishing my skills in **Data Structures & Algorithms**.
- * Working with Golang and Nodejs and of course Microservices !!
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1c4akrJ0tmhLvBJWz_3MflOqmaufbi0CL/view?usp=drive_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
-  
+```go
+package main
 
-![Audarya's github stats](https://github-readme-stats.vercel.app/api?username=Audarya07&show_icons=true&theme=highcontrast&hide_border=true)
+import "fmt"
 
-[![GitHub](https://github-readme-streak-stats.herokuapp.com?user=Audarya07&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+type Developer struct {
+    Name        string
+    Role        string
+    Languages   []string
+    Technologies&DBs []string
+    Focus       []string
+    Hobbies     []string
+}
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audarya07&layout=compact&langs_count=5&exclude_repo=Scholarship&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+func main() {
+    me := Developer{
+        Name:        "Audarya Uttarwar",
+        Role:        "Software Engineer",
+        Languages:   []string{"Go", "Node.js", "Python", "JavaScript", "C++"},
+        Technologies&DBs: []string{"PostgreSQL", "MongoDB", "Redis", "MySQL", "AWS", "Express", "Django"},
+        Focus:       []string{"Backend Systems", "Distributed Systems", "Data Structures & Algorithms"},
+        Hobbies:     []string{"Sketching", "Music", "Learning Internals", "Long Drives 🏍️"},
+    }
+    
+    fmt.Println("Always coding, always learning!")
+}
+```
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+<p align="center">
+  <b>Backend & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p align="center">
+  <b>Databases & Tools</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+## 🔭 What I'm Currently Working On
+
+- 💻 Enhancing my skills in **Golang**
+- 🚀 Building low latency systems with **Golang** and **AWS**
+- 📚 Learning distributed systems
+- ✍️ Writing technical blogs on [Hashnode](https://audarya.hashnode.dev/)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Audarya07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Audarya07&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audarya07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+## 📝 Resources
+
+- 📄 [My Resume](https://drive.google.com/file/d/1A2CSX-_1ELXTGAfRN_fmwrIb4ztyO4IE/view?usp=sharing)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Audarya07&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself!</i>
+</p>
