@@ -4,7 +4,7 @@
 ![Banner](./images/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&width=435&lines=Software+Engineer;Backend+Developer;Problem+Solver;Tech+Enthusiast;Passionate+Learner+and+Teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;width=435&amp;lines=Software+Engineer;Backend+Focussed;Tech+Enthusiast;Passionate+Learner+%26+Teacher" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ func main() {
         Hobbies:     []string{"Sketching", "Music", "Learning Internals", "Long Drives 🏍️"},
     }
     
-    fmt.Println("Always coding, always learning!")
+    fmt.Println("Always building, always learning!")
 }
 ```
 
@@ -53,7 +53,7 @@ func main() {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<!--   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> -->
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ func main() {
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -89,7 +89,7 @@ func main() {
 
 - 💻 Enhancing my skills in **Golang**
 - 🚀 Building low latency systems with **Golang** and **AWS**
-- 📚 Learning distributed systems
+- 📚 Exploring distributed systems
 - ✍️ Writing technical blogs on [Hashnode](https://audarya.hashnode.dev/)
 
 ## 📊 GitHub Stats
