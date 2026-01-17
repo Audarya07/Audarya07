@@ -105,7 +105,7 @@ func main() {
 
 ## 📝 Resources
 
-- 📄 [My Resume](https://drive.google.com/file/d/1A2CSX-_1ELXTGAfRN_fmwrIb4ztyO4IE/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1B4QeETJ_S3cx6hXxsuxMoR2uX0z-Q0I7/view?usp=sharing)
 
 ---
 
