@@ -4,7 +4,7 @@
 ![Banner](./images/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;width=435&amp;lines=Software+Engineer;Backend+Focussed;Tech+Enthusiast;Passionate+Learner+%26+Teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=FFA500&amp;width=435&amp;lines=Software+Engineer;Backend+Focussed;Passionate+Learner+%26+Teacher" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ func main() {
         Languages:   []string{"Go", "Node.js", "Python", "JavaScript", "C++"},
         Technologies&DBs: []string{"PostgreSQL", "MongoDB", "Redis", "MySQL", "AWS", "Express", "Django"},
         Focus:       []string{"Backend Systems", "Distributed Systems", "Data Structures & Algorithms"},
-        Hobbies:     []string{"Sketching", "Music", "Learning Internals", "Long Drives 🏍️"},
+        Hobbies:     []string{"Sketching", "Music", "Learning OS Internals", "Long Drives 🏍️"},
     }
     
     fmt.Println("Always building, always learning!")
@@ -50,7 +50,6 @@ func main() {
 <p align="center">
   <b>Languages</b><br>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <!--   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> -->
@@ -58,6 +57,7 @@ func main() {
 
 <p align="center">
   <b>Backend & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -80,9 +80,6 @@ func main() {
 <p align="center">
   <b>Frontend</b><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ## 🔭 What I'm Currently Working On
